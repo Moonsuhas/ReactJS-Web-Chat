@@ -1,8 +1,8 @@
 {
   "name": "chat-app-react",
+  "homepage": "https://Moonsuhas.github.io/ReactJS-Web-Chat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ujain86.github.io/chat-app-react",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.5",
